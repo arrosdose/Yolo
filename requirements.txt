@@ -1,8 +1,5 @@
-Requisitos:
-
+# OpenCV 4.x: o OpenCV 5 não lê mais modelos Darknet (YOLOv4-tiny)
 opencv-python>=4.5,<4.12
-
 numpy>=1.21,<2.3
-
-
+# usado apenas no notebook para exibir as imagens de teste
 matplotlib>=3.5
