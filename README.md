@@ -2,7 +2,7 @@
 
 Protótipo de alarme com câmera e visão computacional. O sistema detecta pessoas com **YOLO**, verifica com **OpenCV** se elas vestem o azul do uniforme e, se alguém ficar vários quadros sem uniforme, dispara um **alerta visual e sonoro**.
 
-Trabalho de Visão Computacional (Etapa 1), Curso de Ciência da Computação, Unochapecó, Chapecó/SC, 2026.
+Trabalho de Visão Computacional (Etapa 2), Curso de Ciência da Computação, Unochapecó, Chapecó/SC, 2026.
 
 **Integrantes:** Camile Favero Piassa, Guilherme Scherer dos Santos, Gustavo Arthur Tedesco e Ígor Zanatta Palliga.
 
